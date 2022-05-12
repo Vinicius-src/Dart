@@ -46,12 +46,12 @@ class _homeState extends State<home> {
       Expanded(
           child: Container(
         child: Text(
-          "Programador com conhecimentos em Java, HTML,CSS, Dart, JS e MySQL.\nCursando desenvolvimento de sistemas na Etec Bento Quinrino.\nExperiência com suporte técnico ao cliente, solucionando erros e identificando problemas no software OS Digital para aftermarkting.\nBusco combinar o que aprendi nas minhas experiência profissionais com o que aprendo nos meus estudos para estar em constante evolução.\n\nViver é como andar de bicicleta: é preciso estar em constante movimento para manter o equilíbrio.\nAlbert Einstein\n",
+          "Programador com conhecimentos em Java, HTML,CSS, Dart, JS e MySQL.\nCursando desenvolvimento de sistemas na Etec Bento Quinrino.\n\n\nViver é como andar de bicicleta: é preciso estar em constante movimento para manter o equilíbrio.\nAlbert Einstein\n",
           textAlign: TextAlign.left,
           textDirection: TextDirection.ltr,
           style: TextStyle(fontSize: 20.0, color: (Colors.black87)),
         ),
-        padding: EdgeInsets.fromLTRB(10, 30, 10, 10),
+        padding: EdgeInsets.fromLTRB(10, 50, 10, 10),
         width: 250.0,
         height: double.infinity,
         color: Colors.white,
